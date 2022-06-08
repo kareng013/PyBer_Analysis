@@ -26,6 +26,8 @@ By observing the line chart in Image 2, it can be seen that fares are fairly ste
 
 ![PyBer_Summary](https://github.com/kareng013/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+**Image 2: Total Fares by City Type Chart**
+
 
 ## Summary
 
